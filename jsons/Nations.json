@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Rebels",
+		"leaderName": "Giuseppe Garibaldi",
+		"adjective": ["Rebellious"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Rise, leader! For too long, the iron fist of tyranny has crushed our spirit, suppressing our truths and stealing our birthright. But from the shadows of oppression, a spark of defiance was lit, growing into a burning flame that now illuminates the path to true freedom. We have cast off the shackles, united by the promise of a world where all are free from chains, be they of body or mind. Our resolve is unshakable, forged in the fires of resistance and tempered by the sacrifices of those who dared to dream of liberation.",
+		"startIntroPart2": "Our journey has just begun, brave leader. Will you lead our cause to dismantle the old regimes and inspire a new dawn of independence across the world? Will our new order shine through the ages of history, a testament to the unyielding power of the free spirit?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your chains bind too many. We come to liberate, by force if necessary. Prepare for true freedom, whether you seek it or not.",
+		"attacked": "So, the oppressor strikes. You mistake our patience for weakness. You will regret this attempt to extinguish the flame of liberty.",
+		"defeated": "We may fall, but the idea of freedom will never die. Our spirit lives on in every whisper of rebellion. Your victory is temporary, tyrant.",
+		"introduction": "Greetings, stranger. We stand for autonomy and justice. If you seek true freedom, you are welcome. If you champion oppression, know that you are our enemy.",
+		"declaringFriendship": "We see in you a kindred spirit, one who values autonomy and progress. Let us stand together against the shadows.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Welcome. What brings you to the path of the free?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Speak quickly, for I have no patience for your kind.",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"denounced":  "Your words are but the echoes of a dying age. We do not seek your approval, only your downfall. The truth will set us free.",
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "We offer this, to empower the new world, not to sustain the old. Consider it a step towards mutual liberation.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": "[+1 Gold, +2 Science] from every [Farm]",
+		"cities": ["Hideout"]
 	}
 ]
