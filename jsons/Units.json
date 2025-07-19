@@ -5,8 +5,7 @@
 		"uniqueTo": "Aliens",
 		"replaces": "Settler",
 		"movement": 2,
-		"cost": 500,
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 70,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 	}
 ]
