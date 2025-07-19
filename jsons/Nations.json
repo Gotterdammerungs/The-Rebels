@@ -29,7 +29,7 @@
 
 		"outerColor": [104, 122, 104],
 		"innerColor": [205,0,0],
-		"unique": "[+1 Gold, +2 Production]",
+		"unique": "Invisible to non-adjacent units",
 		"cities": ["The"]
 	}
 ]
