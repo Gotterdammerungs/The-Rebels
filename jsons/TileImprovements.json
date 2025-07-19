@@ -1,0 +1,13 @@
+[
+
+	{
+		"name": "Hideout",
+		"terrainsCanBeBuiltOn": ["Land"],
+    "uniqueTo": "The Rebels",
+		"Gold": 1,
+		"turnsToBuild": 1,
+		"techRequired": "Agriculture",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": ":"
+	}
+]
