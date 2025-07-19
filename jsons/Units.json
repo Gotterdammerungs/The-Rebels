@@ -2,7 +2,7 @@
 	{
 		"name": "Rebel Engineer",
 		"unitType": "Civilian",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The Rebels",
 		"replaces": "Settler",
 		"movement": 2,
 		"cost": 70,
