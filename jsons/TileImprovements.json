@@ -7,7 +7,7 @@
 		"Gold": 1,
 		"turnsToBuild": 1,
 		"techRequired": "Agriculture",
-		"uniques": ["Tile provides yield without assigned population","[+1 Gold, +2 Science]","Can be built outside your borders"],
+		"uniques": ["Gain control over [all] tiles in a [1]-tile radius","Tile provides yield without assigned population","[+1 Gold, +2 Science]","Can be built outside your borders"],
 		"shortcutKey": ":"
 	}
 ]
