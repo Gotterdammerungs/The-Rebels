@@ -2,34 +2,41 @@
 	{
 		"name": "The Rebels",
 		"leaderName": "Giuseppe Garibaldi",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We are the spark in the darkness, the defiance whispered from shadows. Our banner flies, soon to eclipse your empires.",
+		"startIntroPart2": "Our struggle has just begun. The old order will tremble before the new dawn we usher in.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your tyranny ends now! Freedom shall echo across the lands!",
+		"attacked": "You mistake our pursuit of liberty for weakness! You will regret this defiance!",
+		"defeated": "This fight is but a skirmish! The spirit of rebellion cannot be extinguished!",
+		"introduction": "We are the harbinger of change, the whisper of freedom. Your old order trembles.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralHello": "So, another seeks our counsel. What is your purpose?",
+		"neutralLetsHearIt": ["State your petition.","Time is a luxury we rarely afford.","Present your terms."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "What do you want, enslaver?",
+		"hateLetsHearIt": ["Spit it out!","Speak your piece, quickly!","Why do you linger?"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well, our immediate objectives have been secured. The path to true freedom demands continued vigilance.",
+		"tradeRequest": "Our cause requires resources. Consider this an... opportunity.",
 
-		"outerColor": [104, 122, 104],
-		"innerColor": [205,0,0],
-		"unique": "Free Technology <upon turn end> <every 2 turns>",
+		"outerColor": [148, 22, 22],
+		"innerColor": [22, 129, 148],
+		"uniques": [
+			"[+100% Science, +100% Culture] Yield from pillaging tiles",
+			"Gain [Science] <upon defeating a [Military] unit>",
+			"Gain [Culture] <upon defeating a [Military] unit>",
+			"Gain [Gold] <upon defeating a [Military] unit>",
+			"May enter foreign tiles without open borders",
+			"Ignores Zone of Control",
+			"Invisible to non-adjacent units",
+			"Free Technology <upon turn end> <every 2 turns>"
+		],
 		"cities": ["The"]
 	}
 ]
