@@ -6,6 +6,7 @@
     "replaces": "Settler",
     "movement": 2,
     "strength": 10,
+    "promotions": "Medic",
     "cost": 70,
     "uniques": ["Uncapturable","Destroys tile improvements when attacking","[-100]% maintenance costs","May enter foreign tiles without open borders","Can build [Land] improvements on tiles","Ignores Zone of Control","Ignores terrain cost","Invisible to non-adjacent units", "May heal outside of friendly territory","Never appears as a Barbarian unit"],
 	},
@@ -20,6 +21,7 @@
     "uniques": ["[+20]% XP gained from combat","May capture killed [Military] units","Earn [50]% of killed [Wounded] unit's [Cost] as [Gold]","[-100]% maintenance costs","[-100]% Gold cost of upgrading","May enter foreign tiles without open borders","Ignores Zone of Control","Ignores terrain cost","Invisible to non-adjacent units", "May heal outside of friendly territory","Never appears as a Barbarian unit"],
     "attackSound": "nonmetalhit"
     "obsoleteTech": "Gunpowder",
+    "promotions": ["Woodsman","Medic"],
     "upgradesTo": "Elite Guerilla",
   },
   {
@@ -30,7 +32,7 @@
     "uniqueTo": "The Rebels",
     "cost": 150,
     "requiredTech": "Gunpowder",
-    "promotions": ["Guerilla Tactics", "Woodsman"],
+    "promotions": ["Blitz", "Woodsman","Medic II"],
     "uniques": ["Can pass through impassable tiles","May Paradrop to [Land] tiles up to [3] tiles away","[+20]% XP gained from combat","May capture killed [Military] units","Earn [60]% of killed [Wounded] unit's [Cost] as [Gold]","[-90]% maintenance costs","May enter foreign tiles without open borders","Ignores Zone of Control","Ignores terrain cost","Invisible to non-adjacent units", "May heal outside of friendly territory","Never appears as a Barbarian unit"],
     "attackSound": "shot"
   },
