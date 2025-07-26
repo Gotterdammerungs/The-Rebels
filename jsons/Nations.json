@@ -27,6 +27,18 @@
 
 		"outerColor": [148, 22, 22],
 		"innerColor": [22, 129, 148],
+		"spyNames": [
+                          "Che",
+                          "Fidel",
+                          "Lenin",
+                          "Mao",
+                          "Washington",
+                          "Bolívar",
+                          "Robespierre",
+                          "Toussaint",
+                          "Pancho",
+                          "Zapata"
+		],
 		"uniques": [
 			"May enter foreign tiles without open borders",
 			"Ignores Zone of Control",
