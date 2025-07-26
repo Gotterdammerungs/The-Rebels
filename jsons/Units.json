@@ -24,6 +24,20 @@
     "promotions": ["Woodsman","Medic"],
     "upgradesTo": "Elite Guerilla",
   },
+        {
+    "name": "Guerilla",
+    "unitType": "Sword",
+    "movement": 3,
+    "strength": 16,
+    "uniqueTo": "The Rebels",
+    "replaces": "Spearman",
+    "cost": 40,
+    "uniques": ["[+20]% XP gained from combat","May capture killed [Military] units","Earn [50]% of killed [Wounded] unit's [Cost] as [Gold]","[-100]% maintenance costs","[-100]% Gold cost of upgrading","May enter foreign tiles without open borders","Ignores Zone of Control","Ignores terrain cost","Invisible to non-adjacent units", "May heal outside of friendly territory","Never appears as a Barbarian unit"],
+    "attackSound": "nonmetalhit"
+    "obsoleteTech": "Gunpowder",
+    "promotions": ["Woodsman","Medic"],
+    "upgradesTo": "Elite Guerilla",
+  },
   {
     "name": "Elite Guerilla",
     "unitType": "Gunpowder",
