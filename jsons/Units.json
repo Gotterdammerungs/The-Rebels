@@ -7,5 +7,28 @@
 		"movement": 2,
 		"cost": 70,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-	}
+	},
+        {
+    "name": "Guerilla",
+    "unitType": "Melee",
+    "movement": 3,
+    "strength": 12,
+    "cost": 80,
+    "requiredTech": "Archery",
+    "obsoleteTech": "Gunpowder",
+    "uniques": ["Invisible to non-adjacent units", "May heal outside of friendly territory"],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Elite Guerilla",
+    "unitType": "Melee",
+    "movement": 3,
+    "strength": 12,
+    "cost": 80,
+    "requiredTech": "Archery",
+    "obsoleteTech": "Gunpowder",
+    "promotions": ["Guerilla Tactics", "Woodsman"],
+    "uniques": ["Invisible to non-adjacent units", "May heal outside of friendly territory"],
+    "attackSound": "nonmetalhit"
+  }
 ]
