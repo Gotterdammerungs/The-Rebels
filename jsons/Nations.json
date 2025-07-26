@@ -40,7 +40,9 @@
                           "Zapata"
 		],
 		"uniques": [
-			"Free Technology <upon turn end> <every [2] turns>",
+			"Free Technology <upon turn end> <every [25] turns>",
+		        "May not annex cities",
+                        "May buy items in puppet cities",
 			"Cities are razed [2] times as fast",
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
 			"Land units may cross [Mountain] tiles after the first [Great General] is earned"
