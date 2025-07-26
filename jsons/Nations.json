@@ -40,10 +40,7 @@
                           "Zapata"
 		],
 		"uniques": [
-			"May enter foreign tiles without open borders",
-			"Ignores Zone of Control",
-			"Invisible to non-adjacent units",
-			"Free Technology <upon turn end> <every 2 turns>",
+			"Free Technology <upon turn end> <every [2] turns>",
 			"Cities are razed [2] times as fast",
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
 			"Land units may cross [Mountain] tiles after the first [Great General] is earned"
