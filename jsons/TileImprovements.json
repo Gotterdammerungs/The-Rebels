@@ -6,9 +6,8 @@
     "uniques": [
       "Can be built outside your borders",
       "Adjacent enemy units ending their turn take [9999] damage",
-      "Does not need removal of [Farm]",
-      "Does not need removal of [Fort]",
-      "Does not need removal of [Mine]",
+      "Does not need removal of [Forest]",
+      "Does not need removal of [Jungle]"
     ]
   },
   {
