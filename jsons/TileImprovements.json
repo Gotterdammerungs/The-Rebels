@@ -1,8 +1,8 @@
 [
   {
     "name": "Trap",
-    "terrainsCanBeBuiltOn": ["All"],
-    "turnsToBuild": 3,
+    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+    "turnsToBuild": 1,
     "uniques": [
       "Can be built outside your borders",
       "Adjacent enemy units ending their turn take [9999] damage",
@@ -13,8 +13,8 @@
   },
   {
     "name": "Sabotage Camp",
-    "terrainsCanBeBuiltOn": ["All"],
-    "turnsToBuild": 5,
+    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+    "turnsToBuild": 4,
     "uniques": [
       "Can be built outside your borders",
       "Costs [20] [Gold] per turn",
