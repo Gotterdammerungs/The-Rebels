@@ -28,15 +28,14 @@
 		"outerColor": [148, 22, 22],
 		"innerColor": [22, 129, 148],
 		"uniques": [
-			"[+100% Science, +100% Culture] Yield from pillaging tiles",
-			"Gain [Science] <upon defeating a [Military] unit>",
-			"Gain [Culture] <upon defeating a [Military] unit>",
-			"Gain [Gold] <upon defeating a [Military] unit>",
 			"May enter foreign tiles without open borders",
 			"Ignores Zone of Control",
 			"Invisible to non-adjacent units",
-			"Free Technology <upon turn end> <every 2 turns>"
+			"Free Technology <upon turn end> <every 2 turns>",
+			"Cities are razed [2] times as fast",
+			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
+			"Land units may cross [Mountain] tiles after the first [Great General] is earned"
 		],
-		"cities": ["The"]
+		"cities": ["r/wehatedougdoug"]
 	}
 ]
